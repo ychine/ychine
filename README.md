@@ -1,6 +1,5 @@
-# Hi, I’m @ychine aka Richelle 👋
+## **Hi, I’m @ychine aka Richelle 👋**
 
-————————————————————————————————————————————————
 
 About Me:
 - 👀 I’m interested in Web Designing / Programming, also designing in general.
