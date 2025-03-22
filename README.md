@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @ychine aka Richelle
 - 👀 I’m interested in Web Designing / Programming
-- 🌱 I’m currently learning HTML CSS Js PHP and other webdev essentials like frameworks.
+
+🌱 Languages:
+Java, C++, Python, VB.Net, HTML, CSS, PHP
+
   
 - 📫 You can reach me through the links in my profile. <3
 - 😄 Pronouns: She/Her
