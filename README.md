@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @ychine aka Richelle
+————————————————————————————————————————————————————————————————————————————————
+Hi, I’m @ychine aka Richelle 👋
+
+About Me:
 - 👀 I’m interested in Web Designing / Programming, also designing in general.
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Wanted to be a digital artist but then I'm here. :D
+- ⚡ Wanted to be a digital artist but then I'm here. :D
   
 🌱 Languages:
     Java, C++, Python, VB.Net, HTML, CSS, PHP
