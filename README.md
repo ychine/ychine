@@ -12,6 +12,11 @@ About Me:
 📫 You can reach me through the links in my profile. <3 
 
 — Ychine ❤️
+
+![Cat Spin](https://media.tenor.com/images/dcc2ff4325a74b6801a9926253306352/tenor.gif)
+
+
+
 <!---
 ychine/ychine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
