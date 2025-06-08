@@ -13,7 +13,7 @@ About Me:
 
 — Ychine ❤️
 
-![Bembem](https://i.imgflip.com/707xpt.png)
+
 
 
 
