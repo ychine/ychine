@@ -31,12 +31,9 @@
 
 ---
 
-## Let's Connect
+## Let's Connect! hehe
 
 - **GitHub:** [@ychine](https://github.com/ychine)
 - **Email:** [](richellebenitez03@gmail.com)
 - **LinkedIn:** [Richelle Dorothy Benitez](https://www.linkedin.com/in/ychine)
 
----
-
-Made with love by Richelle
