@@ -1,21 +1,13 @@
-# Hi, I'm Richelle (@ychine)
+# Richelle (@ychine)
 
-**Full-stack Developer & UI/UX Designer** | Digital Design Enthusiast
-
----
-
-## About Me
-
-I'm a passionate developer who bridges the gap between beautiful design and functional code. What started as a dream to become a digital artist has evolved into something even more exciting—creating seamless digital experiences through web development and UI/UX design.
-
-**Pronouns:** She/Her  
-**Location:** Marikina City, Metro Manila, PH
+**Developer & UI/UX Designer**
 
 ---
 
 ## Tech Stack
 
-### Languages
+**Languages**
+
 ![Java](https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,7 +17,8 @@ I'm a passionate developer who bridges the gap between beautiful design and func
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![VB.Net](https://img.shields.io/badge/VB.Net-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
-### Frameworks & Libraries
+**Frameworks & Libraries**
+
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -34,33 +27,18 @@ I'm a passionate developer who bridges the gap between beautiful design and func
 ![JavaFX](https://img.shields.io/badge/JavaFX-ED8936?style=for-the-badge&logo=java&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 
-### Design Tools
+**Design**
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## What I'm Interested In
-
-- Web Design & Development
-- UI/UX Design
-- Creating beautiful, user-friendly digital experiences
-- Full-stack development
 
 ---
 
 ## Let's Connect
 
-I'd love to collaborate or chat! You can reach me through:
-
 - **GitHub:** [@ychine](https://github.com/ychine)
-- **Portfolio:** [Coming soon]
 - **Email:** [Add your email]
 - **LinkedIn:** [Add your LinkedIn]
 
 ---
 
-<div align="center">
-
 Made with love by Richelle
-
-</div>
