@@ -2,8 +2,6 @@
 
 **Developer & UI/UX Designer**
 
----
-
 ## Tech Stack
 
 **Languages**
