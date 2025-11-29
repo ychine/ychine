@@ -36,8 +36,8 @@
 ## Let's Connect
 
 - **GitHub:** [@ychine](https://github.com/ychine)
-- **Email:** [Add your email]
-- **LinkedIn:** [Add your LinkedIn]
+- **Email:** [](richellebenitez03@gmail.com)
+- **LinkedIn:** [Richelle Dorothy Benitez](https://www.linkedin.com/in/ychine)
 
 ---
 
