@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hey there, I'm Richelle! ^-^
+# Hey there, I'm Rich! ^-^
 
 ### Web Developer & UI/UX Designer
+
+updating this page soon! hehe
 
 <br>
 
