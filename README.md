@@ -3,10 +3,9 @@
 <h1 align="center"><img src="rich-heading-v2.svg" alt="Hey there, I'm Rich! ( • ɞ• )" height="50"></h1>
 
 ### A junior web developer, focusing on UI/UX designs and front-end development. 
-This page is dedicated to showcase my development projects. Wanna check out my UI/UX Designs instead? 
+This page is dedicated to showcase my development projects.<br>
 
-<br>
-Visit:
+Wanna check out my **UI/UX Designs** instead? Visit:
 
 [![My Portfolio](https://img.shields.io/badge/My_Portfolio-835EA3?style=for-the-badge)](https://github.com/ychine)
 </div>
