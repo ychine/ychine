@@ -3,11 +3,12 @@
 # Hey there, I'm Rich! ( • ɞ• )
 
 ### A junior web developer, focusing on UI/UX designs and front-end development. 
-This page is dedicated to showcase my development projects. Wanna check out my UI/UX Designs instead? Visit:
+This page is dedicated to showcase my development projects. Wanna check out my UI/UX Designs instead? 
 
 <br>
+Visit:
 
-[![My Portfolio](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ychine)
+[![My Portfolio]](https://github.com/ychine)
 
 </div>
 
@@ -43,6 +44,7 @@ This page is dedicated to showcase my development projects. Wanna check out my U
 <div align="center">
 
 *Feel free to explore my repositories! If u like my stuff, reach out through my dedicated socials*
+<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ychine)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:richellebenitez03@gmail.com)
 </div>
