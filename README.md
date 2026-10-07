@@ -1,6 +1,6 @@
 <div align="center">
 
-# $\color{white}{\textbf{Hey there, I'm}}\ \color{#835EA3}{\textbf{Rich}}\color{white}{\textbf{!}}$ ( • ɞ• )
+<h1 align="center"><img src="https://raw.githubusercontent.com/ychine/ychine/main/rich-heading.svg" alt="Hey there, I'm Rich! ( • ɞ• )" height="50"></h1>
 
 ### A junior web developer, focusing on UI/UX designs and front-end development. 
 This page is dedicated to showcase my development projects. Wanna check out my UI/UX Designs instead? 
