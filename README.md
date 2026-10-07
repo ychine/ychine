@@ -1,13 +1,13 @@
 <div align="center">
 
-# Hey there, I'm Rich! ^-^
+# Hey there, I'm Rich! ( • ɞ• )
 
-### A junior web developer, focusing on UI/UX designs and front-end development.
-Interested in my works? Check them out through my socials:
+### A junior web developer, focusing on UI/UX designs and front-end development. 
+This page is dedicated to showcase my development projects. Wanna check out my UI/UX Designs instead? Visit:
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ychine)
+[![My Portfolio](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ychine)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ychine)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:richellebenitez03@gmail.com)
 
@@ -15,7 +15,7 @@ Interested in my works? Check them out through my socials:
 
 ---
 
-### 🛠️ Tech Stack
+### Development Stack
 
 **Languages**
 
