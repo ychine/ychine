@@ -8,8 +8,6 @@ This page is dedicated to showcase my development projects. Wanna check out my U
 <br>
 
 [![My Portfolio](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ychine)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ychine)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:richellebenitez03@gmail.com)
 
 </div>
 
@@ -40,23 +38,11 @@ This page is dedicated to showcase my development projects. Wanna check out my U
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Design Tools**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
-![Affinity](https://img.shields.io/badge/Affinity-1B72BE?style=for-the-badge&logo=affinitydesigner&logoColor=white)
-
 ---
 
 <div align="center">
 
-### 💡 What I Do
-
-🎨 Design intuitive UI/UX  •  💻 Build full-stack applications  •  📱 Develop cross-platform solutions
-
-<br>
-
-*Feel free to explore my repositories! If u like my stuff, I'd love to collaborate on a project ^-^*
-
+*Feel free to explore my repositories! If u like my stuff, reach out through my dedicated socials*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ychine)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:richellebenitez03@gmail.com)
 </div>
