@@ -39,9 +39,11 @@ Wanna check out my **UI/UX Designs** instead? Visit:
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/bootstrap/white"><img src="https://cdn.simpleicons.org/bootstrap/black" width="42" height="42" alt="Bootstrap"></picture>
 </p>
 
+---
+
 <div align="center">
 
-*Feel free to explore my repositories! If u like my stuff, reach out through my dedicated socials*
+*Feel free to explore my repositories below! If you'd like to team up, kindly reach out to my dedicated socials:*
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ychine)
