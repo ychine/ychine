@@ -2,9 +2,8 @@
 
 # Hey there, I'm Rich! ^-^
 
-### Web Developer & UI/UX Designer
-
-updating this page soon! hehe
+### A junior web developer, focusing on UI/UX designs and front-end development.
+Interested in my works? Check them out through my socials:
 
 <br>
 
